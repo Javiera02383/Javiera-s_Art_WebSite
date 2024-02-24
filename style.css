@@ -1,0 +1,31 @@
+/* Estilos para la página */
+
+/* Fondo de la página */
+body {
+    background-color: #f0f0f0; /* Gris claro */
+}
+
+.footer span {
+    color: #fff; /* Blanco */
+}
+
+/* Estilos para los botones */
+.btn-primary {
+    background-color: #FFA500; /* Anaranjado */
+    border-color: #FFA500; /* Anaranjado */
+}
+
+.btn-primary:hover {
+    background-color: #FF8C00; /* Anaranjado más oscuro */
+    border-color: #FF8C00; /* Anaranjado más oscuro */
+}
+
+/* Estilos para el texto principal */
+h1, h2, h3, h4, h5, h6 {
+    color: #333; /* Negro */
+}
+
+p {
+    color: #666; /* Gris oscuro */
+}
+
